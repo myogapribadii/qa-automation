@@ -1,0 +1,16 @@
+{
+    "loginSit": "http://10.250.60.41:12007/jaguars-web/login",
+    "dashboardSit": "http://10.250.60.41:12007/jaguars-web/auth/dashboard",
+    "draftSp": "http://10.250.60.41:12007/jaguars-web/auth/ots/draft-sp",
+    "verifikasiAnalisa": "http://10.250.60.41:12007/jaguars-web/auth/verifikasi-analisa-penjaminan/verifikasi-analisa",
+    "keputusan": "http://10.250.60.41:12007/jaguars-web/auth/penjaminan/keputusan",
+    "penerimaanIjp": "http://10.250.60.41:12007/jaguars-web/auth/penerimaan-ijp/proses-penerimaan-ijp",
+    "penerbitanSP": "http://10.250.60.41:12007/jaguars-web/auth/penjaminan-sp/proses-penerbitan-sp",
+    "loginUat": "https://testing-jaguars.jamkrindo.co.id/jaguars-web/login",
+    "dashboardUat": "https://testing-jaguars.jamkrindo.co.id/jaguars-web/auth/dashboard",
+    "draftSpUat": "https://testing-jaguars.jamkrindo.co.id/jaguars-web/auth/ots/draft-sp",
+    "verifikasiAnalisaUat": "https://testing-jaguars.jamkrindo.co.id/jaguars-web/auth/verifikasi-analisa-penjaminan/verifikasi-analisa",
+    "keputusanUat": "https://testing-jaguars.jamkrindo.co.id/jaguars-web/auth/penjaminan/keputusan",
+    "penerimaanIjpUat": "https://testing-jaguars.jamkrindo.co.id/jaguars-web/auth/penerimaan-ijp/proses-penerimaan-ijp",
+    "penerbitanSPUat": "https://testing-jaguars.jamkrindo.co.id/jaguars-web/auth/penjaminan-sp/proses-penerbitan-sp"
+}

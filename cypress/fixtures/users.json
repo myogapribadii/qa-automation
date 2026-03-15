@@ -1,0 +1,38 @@
+{
+  "staff": {
+    "email": "pribadii@gmail.com",
+    "password": "Jakarta1!"
+  },
+  "managerBisnis": {
+    "email": "dagiwep449@scarden.com",
+    "password": "Jakarta4!"
+  },
+  "managerKlaim": {
+    "email": "nosogep861@rowplant.com",
+    "password": "Jakarta1!"
+  },
+  "pemimpinCabang": {
+    "email": "vimiwe8817@paxnw.com",
+    "password": "Jakarta4!"
+  },
+  "admin": {
+    "email": "Admin",
+    "password": "admin123"
+  },
+  "stafrm1": {
+    "email": "stafrm1@dummy.com",
+    "password": "Jakarta4!"
+  },
+  "managerBisnisUat": {
+    "email": "dagiwep449@scarden.com",
+    "password": "Jakarta5!"
+  },
+  "managerKlaimUat": {
+    "email": "nosogep861@rowplant.com",
+    "password": "Jakarta5!"
+  },
+  "pemimpinCabangUat": {
+    "email": "vimiwe8817@paxnw.com",
+    "password": "Jakarta5!"
+  }
+}
